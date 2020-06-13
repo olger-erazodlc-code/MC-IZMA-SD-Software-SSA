@@ -4,3 +4,28 @@ El software SSA se diseña bajo el paradigma de programación orientada a objeto
 
 En este sitio encuentra los instaladores del software, la base de datos y la guía de instalación. 
 
+<img src="https://devicenar.com/wp/wp-content/uploads/2020/06/diagrama_flujo_script_izma_sd_solo_reconstruye_no_automatico.png">
+<center>Figura 1. Bloques de programación del algoritmo MC IZMA_SD, etapa de reconstrucción</center>
+<br>
+<br>
+Desarrollado por:  Olger Ferledy Erazo De La Cruz
+<br>
+Grupo de Investigación en Nuevas Tecnologías de Telecomunicaciones
+<br>
+Colombia - Universidad del Cauca - 2020. 
+<br>
+<center/>
+<div style="text-align:center;"> 
+<table style="margin: 0 auto;">
+<tr>
+<td>  
+<img src="https://www.unicauca.edu.co/versionP/sites/default/files/images/Escudo_Unicauca1.png" width="200" height="270">
+</td>
+<td>
+<img src="https://devicenar.com/wp/wp-content/uploads/2020/06/gntt.png" width="150" height="150">
+</td>
+</tr>
+</table>
+</center>
+ </div>
+<hr>
