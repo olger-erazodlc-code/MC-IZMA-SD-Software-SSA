@@ -4,8 +4,8 @@ El software SSA se diseña bajo el paradigma de programación orientada a objeto
 
 En este sitio encuentra los instaladores del software, la base de datos y la guía de instalación. 
 
-<img src="https://devicenar.com/wp/wp-content/uploads/2020/06/diagrama_flujo_script_izma_sd_solo_reconstruye_no_automatico.png">
-<center>Figura 1. Bloques de programación del algoritmo MC IZMA_SD, etapa de reconstrucción</center>
+<img src="https://devicenar.com/wp/wp-content/uploads/2020/06/software_simulacion_banda_estrecha_2.png">
+<center>Figura 1. Componentes software para el análisis de resultados MC IZMA_SD para WBSS</center>
 <br>
 <br>
 Desarrollado por:  Olger Ferledy Erazo De La Cruz
